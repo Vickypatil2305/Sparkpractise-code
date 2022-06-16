@@ -1,0 +1,40 @@
+
+			**************windows user only*************
+
+Uninstall Existing Java
+=======================
+			
+Check your java version in cmd by this commond = java -version  .If not JAVA 8 ,Java download & Install it & then do the environment setup
+========================
+			https://drive.google.com/file/d/1vGKX-r6SzT6ND-NQ0co6vKUD61Xd2_zl/view?usp=sharing
+
+Scala ide download and extract It
+================================
+			https://drive.google.com/file/d/1gK1GJ6n9YBaFJmTqg1AB-AAb-4U1MP6Y/view?usp=sharing
+
+Winutils	- install it and do the environment setup as java
+========
+			https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe
+
+Intellij Download
+=================
+			https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
+
+Spark Download
+==============
+			https://archive.apache.org/dist/spark/spark-2.4.0/spark-2.4.0-bin-hadoop2.6.tgz
+			
+			
+			
+			******************Mac user only***********
+			
+Mac  Intellij
+==============
+			https://download.jetbrains.com/idea/ideaIC-2022.1.dmg?_gl=1*1ty72ly*_ga*MjAxNzkwNDAyMC4xNjI4OTE3OTI2*_ga_V0XZL7QHEB*MTY1MTg5MTgyNy42LjEuMTY1MTg5MjA0My4w&_ga=2.163873663.134828685.1651891828-2017904020.1628917926
+
+Spark Download
+================
+			https://archive.apache.org/dist/spark/spark-2.4.0/spark-2.4.0-bin-hadoop2.6.tgz
+			
+			
+			
