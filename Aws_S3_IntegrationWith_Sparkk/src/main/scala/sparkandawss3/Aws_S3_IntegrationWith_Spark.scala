@@ -19,8 +19,8 @@ object Aws_S3_IntegrationWith_Spark extends App {
   println("====started=====")
 
   val conf = new SparkConf().setAppName("first").setMaster("local[*]")
-    .set("fs.s3a.access.key", "AKIA2RDQ4DHZL6CICLEO")
-    .set("fs.s3a.secret.key", "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")
+    .set("fs.s3a.access.key", "pass access key here")
+    .set("fs.s3a.secret.key", "pass secret key here")
 
   val sc = new SparkContext(conf)
   sc.setLogLevel("ERROR")
